@@ -71,3 +71,15 @@ The main output of this project is the loan_default_model.pkl file, which contai
 
 # 👤 Author
 This project was developed by Pavan Gokak as part of a task for CODTECH IT SOLUTIONS, demonstrating the practical application of machine learning in the financial domain. It highlights how predictive modeling can support risk management by identifying potential loan defaulters. The project showcases a complete ML workflow—from data preprocessing and model training to evaluation and deployment—emphasizing the real-world value of data-driven decision-making in banking and credit analysis.
+
+![Image](https://github.com/user-attachments/assets/3ca848b9-b8c3-44d8-b7cd-babd9aac267e)
+![Image](https://github.com/user-attachments/assets/ebe8e18a-3773-4914-9f8e-5a3774508134)
+![Image](https://github.com/user-attachments/assets/a484b88b-dddd-4292-8bbf-90ced5519c50)
+![Image](https://github.com/user-attachments/assets/59f533db-1903-4424-a694-a8ffa2c2c6bc)
+![Image](https://github.com/user-attachments/assets/36874235-951f-41e5-9e0e-3b3672ba6b98)
+![Image](https://github.com/user-attachments/assets/8aa0c608-3214-4981-93dd-71cf4aba5748)
+![Image](https://github.com/user-attachments/assets/10f4b24a-af4e-4954-92db-da60a2241044)
+![Image](https://github.com/user-attachments/assets/fb7dee58-5ea7-4f19-8217-da5f919943c7)
+![Image](https://github.com/user-attachments/assets/b304e35d-ad6f-4b64-9ef6-d35f32523591)
+![Image](https://github.com/user-attachments/assets/688c8075-040d-4d0c-b14a-06c2da844d73)
+![Image](https://github.com/user-attachments/assets/7fc9ba36-932a-48ae-a761-f6047bd6d690)
